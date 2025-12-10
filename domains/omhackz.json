@@ -1,0 +1,11 @@
+{
+  "description": "Personal website/server",
+  "domain": "omhackz.is-a.dev",
+  "subdomain": "omhackz",
+  "owner": {
+    "email": "omhackz.dev@gmail.com"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
